@@ -1,32 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T10:40:14.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3LYrrzwidsvIPvWD7_aJ" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T10:48:32.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Fuoj6f8vHBGpB6u1HMpr" version="23.1.7" type="github">
   <diagram name="Página-1" id="fs2xiX-A5yB56SPknVcc">
-    <mxGraphModel dx="5174" dy="2873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="17600" dy="8520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object label="" id="QnO3o63YNObf6KLlCivS-11">
-          <mxCell style="rounded=1;arcSize=10;dashed=1;fillColor=default;gradientColor=none;dashPattern=1 1;strokeWidth=7;fontSize=20;strokeColor=#00CC00;shadow=0;glass=0;fixDash=1;container=1;collapsible=0;metaEdit=1;fillStyle=solid;" vertex="1" parent="1">
-            <mxGeometry x="-1235" y="10" width="1630" height="880" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="QnO3o63YNObf6KLlCivS-14" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=7;" vertex="1" parent="1">
-          <mxGeometry x="-1215" y="100" width="780" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="QnO3o63YNObf6KLlCivS-17" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=7;" vertex="1" parent="1">
-          <mxGeometry x="-401" y="100" width="780" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="QnO3o63YNObf6KLlCivS-18" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-916.11" y="-1100" width="992.22" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="QnO3o63YNObf6KLlCivS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=20;" edge="1" parent="1" source="QnO3o63YNObf6KLlCivS-20" target="QnO3o63YNObf6KLlCivS-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QnO3o63YNObf6KLlCivS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=20;" edge="1" parent="1" source="QnO3o63YNObf6KLlCivS-20" target="QnO3o63YNObf6KLlCivS-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QnO3o63YNObf6KLlCivS-20" value="igw-09b6d7300d9deeca7&lt;br&gt;&lt;br&gt;GatewayInternet01" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;fontSize=30;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_gateway;direction=south;labelPosition=left;labelBackgroundColor=none;labelBorderColor=none;spacingTop=0;horizontal=1;html=1;spacing=0;spacingBottom=0;fontFamily=Verdana;spacingRight=20;" vertex="1" parent="1">
-          <mxGeometry x="-536.5" y="-440" width="233" height="233" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
