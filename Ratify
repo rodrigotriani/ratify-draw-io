@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T10:09:50.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.7" etag="EBTNdx_dqZFYvIYfu89r" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T10:26:33.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FSfAB_exEzwoyzyXcWGP" version="23.1.7" type="github">
   <diagram name="Página-1" id="fs2xiX-A5yB56SPknVcc">
-    <mxGraphModel>
+    <mxGraphModel dx="3760" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="" id="QnO3o63YNObf6KLlCivS-11">
+          <mxCell style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=7;fontSize=20;strokeColor=#00CC00;" vertex="1" parent="1">
+            <mxGeometry x="-810" y="270" width="1630" height="880" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="QnO3o63YNObf6KLlCivS-14" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="360" width="780" height="760" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
